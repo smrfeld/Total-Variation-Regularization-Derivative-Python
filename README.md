@@ -6,15 +6,20 @@ You can read more about this on Medium.
 
 Here's a quick example of a signal:
 
-<img src="example_abs_figures/signal.png" alt="drawing" width="400"/>
+<img src="mathematica/example_abs_figures/signal.png" alt="drawing" width="400"/>
 
 it's noisy derivative:
 
-<img src="example_abs_figures/deriv.png" alt="drawing" width="400"/>
+<img src="mathematica/example_abs_figures/deriv.png" alt="drawing" width="400"/>
 
 and it's amazingly smooth derivative from TVR:
 
-<img src="example_abs_figures/tvr.png" alt="drawing" width="400"/>
+<img src="mathematica/example_abs_figures/tvr.png" alt="drawing" width="400"/>
+
+## Code
+
+* [mathematica](mathematica) contains an implementation in Mathematica. The example is worked out here in greater detail.
+* [python](python) contains an implementation in Python. This is a fairly basic implementation, so be careful applying it to large problems (1k+ data points).
 
 ## Relevant literature
 
@@ -24,4 +29,4 @@ This code heavily uses the method described in [Numerical Differentiation of Noi
 
 You can read a detailed example on Medium.
 
-<img src="example_damped_osc_figures/tog.png" alt="drawing" width="800"/>
+<img src="mathematica/example_damped_osc_figures/tog.png" alt="drawing" width="800"/>
