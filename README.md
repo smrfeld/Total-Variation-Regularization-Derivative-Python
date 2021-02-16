@@ -24,4 +24,4 @@ This code heavily uses the method described in [Numerical Differentiation of Noi
 
 You can read a detailed example on Medium.
 
-<img src="example_damped_osc_figures/tog.png" alt="drawing" width="400"/>
+<img src="example_damped_osc_figures/tog.png" alt="drawing" width="800"/>
