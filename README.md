@@ -2,7 +2,7 @@
 
 This repo gives an implementation with examples of how to differentiate noisy signals using Total Variation Regularization (TVR).
 
-You can read more about this on Medium.
+[You can read more about this on Medium.](https://medium.com/practical-coding/how-to-differentiate-noisy-signals-2baf71b8bb65)
 
 Here's a quick example of a signal:
 
@@ -27,6 +27,6 @@ This code heavily uses the method described in [Numerical Differentiation of Noi
 
 ## Detailed example
 
-You can read a detailed example on Medium.
+[You can read more about this on Medium.](https://medium.com/practical-coding/how-to-differentiate-noisy-signals-2baf71b8bb65)
 
 <img src="mathematica/example_damped_osc_figures/tog.png" alt="drawing" width="800"/>
