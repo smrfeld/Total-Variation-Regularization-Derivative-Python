@@ -1,4 +1,4 @@
-from Users.oernst.software_public.tvr_differentiate.python.diff_tvr import DiffTVR
+from diff_tvr import DiffTVR
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -37,7 +37,7 @@ if __name__ == "__main__":
     # Derivative with TVR
     diff_tvr = DiffTVR(n,dx)
     (deriv,_) = diff_tvr.get_deriv_tvr(
-        data=data, 
+        data=data_noisy, 
         deriv_guess=np.full(n+1,0.0), 
         alpha=0.2,
         no_opt_steps=100
